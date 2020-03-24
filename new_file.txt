@@ -1,3 +1,8 @@
 fdfs
+<<<<<<< HEAD
 sd
 sdf
+=======
+dfsdgf
+a
+>>>>>>> 6febb73e1d26e02f9bfb060fb6a9c75922860290
